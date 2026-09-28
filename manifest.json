@@ -1,6 +1,6 @@
 {
   "engine": "4.5.1.stable.official.f62fdbde1",
-  "commit": "8d36d85e9c4503ac96c691557da821521a5052c0",
+  "commit": "61f88799850355796b76e8402e7bff17bb36ed0e",
   "dirty": false,
   "renderer": "gl_compatibility",
   "threads": false,
@@ -27,7 +27,7 @@
     },
     {
       "name": "index.html",
-      "sha256": "BBF412E8767144CA009609DC7247570AA71344C04EE58C728C21F2FD7EBA67DF",
+      "sha256": "1201EC17FAB7E219C458315C81F136E6F15FCEAFAD8FD69D75A813B8892B8D96",
       "bytes": 5570
     },
     {
@@ -42,8 +42,8 @@
     },
     {
       "name": "index.pck",
-      "sha256": "C103F08E51713C76D5AAE0ADCCD2E253D43FED20DB3BC46D6EECE1006AACF68C",
-      "bytes": 91186616
+      "sha256": "12EF428EBB7FF95A3DEB12AA00DB8E7A715E3ADCA4450CF88113865F270CAC74",
+      "bytes": 92591840
     },
     {
       "name": "index.png",

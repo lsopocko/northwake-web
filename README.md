@@ -2,13 +2,14 @@
 
 [Play Northwake](https://lsopocko.github.io/northwake-web/)
 
-Explore an Arctic archipelago, recover wreck cargo and build your camp.
+Explore an Arctic archipelago, recover wreck cargo and build your camp. Follow Aurora's strange recording to uncover **The Signal Beneath the Ice**: an abandoned expedition, a thermal bow for your skiff and a buried survey ship with a walkable interior.
 Use a desktop browser with WebGL 2 (Chrome, Edge or Firefox). The initial download is approximately 124 MiB before HTTP compression; allow the loading bar to finish.
 
 - WASD or click the ground to move; Shift to sprint; Space to jump.
 - Walk over supplies to collect them. F interacts and boards the skiff.
 - I opens the pack, B opens camp crafting, Q surveys, Esc opens the menu.
 - During recovery, hold and release F to keep the marker in the green band.
+- J opens the signal journal. Follow its bearings, fit the thermal bow at camp and break through pressure ice. Existing Aurora recoveries receive the first clue automatically.
 
 Progress is saved in this browser's site storage. It is separate from the Windows game and other browsers/devices. Clearing site data removes browser progress; private browsing may not retain it.
 
